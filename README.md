@@ -1,0 +1,2 @@
+# Ayame
+FFXIV Discord Bot
